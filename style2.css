@@ -1,0 +1,15 @@
+/* Będzie dotyczyć wszystkich znaczników z klasą title */
+.title {
+    font-weight: 500;
+  }
+  
+  /* Będzie dotyczyć wszystkich znaczników z klasą text */
+  .text {
+    color: brown;
+    font-size: 18px;
+  }
+  
+  /* Będzie dotyczyć wszystkich znaczników z klasą link */
+  .link {
+    text-decoration: none;
+  }
