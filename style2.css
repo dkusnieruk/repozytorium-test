@@ -13,3 +13,21 @@
   .link {
     text-decoration: none;
   }
+  /* Wspólne style dla wszystkich typów alertów */
+.alert {
+    font-size: 24px;
+    font-weight: 500;
+  }
+  
+  /* Specyficzne style dla każdego typu */
+  .success {
+    color: green;
+  }
+  
+  .warning {
+    color: orange;
+  }
+  
+  .error {
+    color: red;
+  }
