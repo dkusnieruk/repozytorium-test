@@ -31,3 +31,7 @@
   .error {
     color: red;
   }
+
+  .post-text {
+    text-indent: 100px;
+  }
