@@ -1,0 +1,267 @@
+.title{
+font-weight:500;
+}
+.text{
+    color:brown;
+    font-size:18px;
+}
+.link{
+    text-decoration:none;
+}
+.alert{
+    font-size:24px;
+    font-weight:500;
+}
+.success{
+    color:green;
+}
+.warning{
+    color:orange;
+}
+.error{
+    color:red;
+}
+#title2{
+    font-weight:500;
+    color:orange;
+}
+.social-links a{
+    color:blue;
+    text-decoration:none;
+}
+.menu > li {
+    border: 1px solid tomato;
+}
+a[title] {
+    color:teal;
+}
+a[href="https://www.youtube.com" ]{
+    color:tomato;
+}
+.link2{
+    color:teal;
+}
+.link2:hover {
+    color:tomato;
+}
+.social-links2 .link{
+    color:teal;
+}
+.social-links2 .link:hover{
+    color:tomato;
+}
+.social-links3 .link3 {
+    color:teal;
+}
+.social-links3 .link3:focus{
+    color:orange;
+}
+.social-links3 .link3:active{
+    color:red;
+}
+.schedule-body > tr:hover{
+    background-color:tomato;
+    color:white;
+}
+.schedule{
+    border-collapse:collapse;
+}
+.schedule th,
+.schedule td {
+    padding:8px;
+    border: 1px solid #212121;
+}
+.auto {
+    cursor: auto;
+  }
+  .default {
+    cursor: default;
+  }
+  .none {
+    cursor: none;
+  }
+  .context-menu {
+    cursor: context-menu;
+  }
+  .help {
+    cursor: help;
+  }
+  .pointer {
+    cursor: pointer;
+  }
+  .progress {
+    cursor: progress;
+  }
+  .wait {
+    cursor: wait;
+  }
+  .cell {
+    cursor: cell;
+  }
+  .crosshair {
+    cursor: crosshair;
+  }
+  .text {
+    cursor: text;
+  }
+  .vertical-text {
+    cursor: vertical-text;
+  }
+  .alias {
+    cursor: alias;
+  }
+  .copy {
+    cursor: copy;
+  }
+  .move {
+    cursor: move;
+  }
+  .no-drop {
+    cursor: no-drop;
+  }
+  .not-allowed {
+    cursor: not-allowed;
+  }
+  .all-scroll {
+    cursor: all-scroll;
+  }
+  .col-resize {
+    cursor: col-resize;
+  }
+  .row-resize {
+    cursor: row-resize;
+  }
+  .n-resize {
+    cursor: n-resize;
+  }
+  .e-resize {
+    cursor: e-resize;
+  }
+  .s-resize {
+    cursor: s-resize;
+  }
+  .w-resize {
+    cursor: w-resize;
+  }
+  .ns-resize {
+    cursor: ns-resize;
+  }
+  .ew-resize {
+    cursor: ew-resize;
+  }
+  .ne-resize {
+    cursor: ne-resize;
+  }
+  .nw-resize {
+    cursor: nw-resize;
+  }
+  .se-resize {
+    cursor: se-resize;
+  }
+  .sw-resize {
+    cursor: sw-resize;
+  }
+  .nesw-resize {
+    cursor: nesw-resize;
+  }
+  .nwse-resize {
+    cursor: nwse-resize;
+  }
+  
+  body {
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+      Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+  
+  .cursors {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .cursors > div {
+    flex: 150px;
+    padding: 10px 2px;
+    white-space: nowrap;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    margin: 0 5px 5px 0;
+  }
+  
+  .cursors > div:hover {
+    background: #eee;
+  }
+  
+  code {
+    display: inline-block;
+    background-color: #eee;
+    padding: 4px 6px;
+    border-radius: 4px;
+    font-size: 32px;
+  }
+  .text2{
+      color:tomato;
+      background-color:white;
+  }
+  .text3{
+      background-color: rgba(255, 0, 0, 0.3);
+  }
+  p{
+      color:green;
+  }
+  article > p{
+      color:orange;
+  }
+  p {
+      color:orange !important;
+  }
+  p#text-id.text{
+      color:blue;
+  }
+  .section{
+      border:2px solid #3f51b5;
+  }
+  .section-title{
+      color:#3f51b5
+  }
+  .section-title::before{
+      background-color:#3f51b5;
+  }
+  .alert2{
+      --alert-text-color:black;
+      color:var(--alert-text-color);
+  }
+  .alert2.success2{
+      --alert-text-color:green;
+  }
+  .alert2.warning2{
+    --alert-text-color:orange;
+}
+.alert2.error2{
+    --alert-text-color:red;
+}
+.text4 > span{
+    text-decoration:line-through;
+}
+.link4{
+    text-decoration:none;
+}
+.site-nav .link{
+    text-transform:uppercase;
+}
+.post-title{
+    text-align:center;
+}
+.align-right{
+    text-align:right;
+}
+.align-justify{
+    text-align:justify;
+}
+.post-text{
+    text-indent:100px;
+}
+.text5{
+    font-size:16px;
+    line-height:1.5;
+}
